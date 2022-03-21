@@ -1,7 +1,7 @@
 package grpc_net_conn
 
 import (
-	"github.com/golang/protobuf/proto"
+	"google.golang.org/protobuf/proto"
 )
 
 // Encoder encodes a byte slice to write into the destination proto.Message.

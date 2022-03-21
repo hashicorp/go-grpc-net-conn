@@ -1,5 +1,7 @@
 syntax = "proto3";
 
+option go_package = "github.com/hashicorp/go-grpc-net-conn/testproto";
+
 package testproto;
 
 service TestService {
