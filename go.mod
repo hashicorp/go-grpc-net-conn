@@ -1,4 +1,4 @@
-module github.com/mitchellh/go-grpc-net-conn
+module github.com/hashicorp/go-grpc-net-conn
 
 go 1.14
 

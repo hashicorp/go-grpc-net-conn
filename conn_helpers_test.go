@@ -9,7 +9,7 @@ import (
 	"github.com/stretchr/testify/require"
 	"google.golang.org/grpc"
 
-	"github.com/mitchellh/go-grpc-net-conn/testproto"
+	"github.com/hashicorp/go-grpc-net-conn/testproto"
 )
 
 func testStreamConn(
